@@ -50,7 +50,7 @@ export default function Header() {
                         id="mobile-menu-2"
                     >
 
-                        <ul className="flex justify-center items-center just mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
+                        <ul className="flex justify-center items-center  mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
 
                             {/* Home */}
                             <li>
